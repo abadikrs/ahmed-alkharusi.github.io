@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /code/
+permalink: /برمجة/
 title: برمجة
 description: 
 nav: true
