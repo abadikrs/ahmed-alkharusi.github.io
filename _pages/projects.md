@@ -1,7 +1,7 @@
 ---
 layout: page
-title: teaching
-permalink: /teaching/
+title: projects
+permalink: /projects/
 description: A growing collection of your cool projects.
 nav: true
 nav_order: 2
@@ -9,7 +9,7 @@ display_categories: [work, fun]
 horizontal: false
 ---
 
-<!-- pages/teaching.md -->
+<!-- pages/projects.md -->
 <div class="projects">
 {%- if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
