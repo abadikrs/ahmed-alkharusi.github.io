@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Physics lecturer at <a href='#'>UTAS</a>.
+subtitle: .<a href='#'>UTAS</a> محاضر فيزياء في 
 
 profile:
   align: right
@@ -17,5 +17,5 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-هذه تجربة. لتحميل الكتاب [اضغط هنا](ahmed-alkharusi.github.io) 
+هذه تجربة. لتحميل الكتاب [اضغط هنا](ahmed-alkharusi.github.io) ي ثالث كواكب المجموعة الشمسية بعدًا عن الشمس بعد عطارد والزهرة، 
 
