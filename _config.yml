@@ -3,9 +3,9 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Ahmed
+first_name: أحمد
 middle_name: 
-last_name: Al-kharusi
+last_name: الخروصي
 email: uoup25@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   هذه تجربة اللغة العربية Based on [*folio](https://github.com/bogoli/-folio) design.
