@@ -16,7 +16,7 @@
     {%- include header.html %}
 
     <!-- Content -->
-    <div class="container mt-5" {% if site.rtl_langs contains page.lang %}dir="rtl" align="right"{% endif %}>
+    <div class="container mt-5" {% if site.rtl_langs contains page.lang %}dir="rtl" align="right"{% endif %}
       {% if page.toc and page.toc.sidebar %}
         {% if page.toc.sidebar == "right" %}
         <div class="row">
