@@ -1,5 +1,5 @@
 ---
-layout: arabic
+layout: about
 title: about
 permalink: /
 subtitle: Physics lecturer at <a href='#'>UTAS</a>.
