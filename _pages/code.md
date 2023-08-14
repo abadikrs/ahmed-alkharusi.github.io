@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /repositories/
-title: Code
+permalink: /code/
+title: code
 description: 
 nav: true
 nav_order: 3
