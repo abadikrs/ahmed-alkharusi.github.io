@@ -17,4 +17,4 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-<div dir="rtl">هذه تجربة. لتحميل الكتاب [اضغط هنا](ahmed-alkharusi.github.io) ي ثالث كواكب المجموعة الشمسية بعدًا عن الشمس بعد عطارد والزهرة،</div>
+هذه تجربة. لتحميل الكتاب [اضغط هنا](ahmed-alkharusi.github.io) ي ثالث كواكب المجموعة الشمسية بعدًا عن الشمس بعد عطارد والزهرة،
