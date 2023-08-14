@@ -1,8 +1,8 @@
 ---
 layout: about
-title: عني
+title: الكتاب
 permalink: /
-subtitle: .<a href='#'>UTAS</a> محاضر فيزياء في 
+subtitle: .بالرستاق <a href='#'>جامعة التقنية والعلوم التطبيقية</a> محاضر فيزياء في 
 
 profile:
   align: right
