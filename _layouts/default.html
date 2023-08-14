@@ -3,8 +3,6 @@
 <!-- I added dir="rtl" remove this for eng. lang.-->
   <!-- Head -->
   <head>
-  <!-- I added the line bewlow remove this for eng. lang.-->
-  <meta charset="utf-8">
   {%- if page.redirect -%}
     <meta http-equiv="refresh" content="3; url={{ site.baseurl }}/" />
   {%- endif -%}
@@ -18,7 +16,7 @@
     {%- include header.html %}
 
     <!-- Content -->
-    <div class="container mt-5">
+    <div class="container mt-5" {% if site.rtl_langs contains page.lang %}dir="rtl" align="right"{% endif %}
       {% if page.toc and page.toc.sidebar %}
         {% if page.toc.sidebar == "right" %}
         <div class="row">
