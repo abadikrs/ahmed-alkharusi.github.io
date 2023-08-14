@@ -2,7 +2,7 @@
 layout: about
 title: الكتاب
 permalink: /
-subtitle: .بالرستاق <a href='#'>جامعة التقنية والعلوم التطبيقية</a> محاضر فيزياء في 
+subtitle: محاضر فيزياء في <a href='#'> جامعة التقنية والعلوم التطبيقية بالرستاق.</a>
 
 profile:
   align: right
