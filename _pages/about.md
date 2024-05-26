@@ -2,14 +2,14 @@
 layout: about
 title: الكتاب
 permalink: /
-subtitle:  محاضر فيزياء في <a href='#'>جامعة التقنية والعلوم التطبيقية بالرستاق.</a>
+subtitle:  #محاضر فيزياء في <a href='#'>جامعة التقنية والعلوم التطبيقية بالرستاق.</a>
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   address: >
-    <p>العوابي، سلطنة عمان</p>
+    <p>ولاية العوابي، سلطنة عمان</p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
