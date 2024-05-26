@@ -1,14 +1,14 @@
 ---
 layout: about
 title: الكتاب
-permalink: [/http(ahmed-alkharusi.github.io)](https://ahmed-alkharusi.github.io)
-subtitle: لتحميل كتاب _مقدمة في الفيزياء الكلاسيكية_، اضغط هنا.
+permalink: /
+subtitle: 
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
-  address: #>#<p>ولاية العوابي، سلطنة عمان</p>
+  address:
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
@@ -17,7 +17,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
  
-
+ <h3> لتحميل كتاب _مقدمة في الفيزياء الكلاسيكية_، [اضغط هنا.](https://ahmed-alkharusi.github.io) </h3>
  "فقد رأيت كتابة هذا الكتاب ليكون مرجعا للطلبة الجامعيين الذين يدرسون الفيزياء في عامهم الأكاديمي الأول، وثمة أشياء عدة  قد تميز هذا الكتاب عن الكتب الأخرى في هذا المجال، وهي:
    <ul>
      <li> متاح مجانا عبر الموقع، </li>
