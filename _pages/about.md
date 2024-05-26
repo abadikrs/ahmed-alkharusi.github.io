@@ -1,8 +1,8 @@
 ---
 layout: about
 title: الكتاب
-permalink: /
-subtitle: لتحميل كتاب _مقدمة في الفيزياء الكلاسيكية_، [اضغط هنا.](ahmed-alkharusi.github.io)
+permalink: [/http(ahmed-alkharusi.github.io)](https://ahmed-alkharusi.github.io)
+subtitle: لتحميل كتاب _مقدمة في الفيزياء الكلاسيكية_، [اضغط هنا.]
 
 profile:
   align: right
