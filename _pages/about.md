@@ -2,7 +2,7 @@
 layout: about
 title: الكتاب
 permalink: /
-subtitle:  #محاضر فيزياء في <a href='#'>جامعة التقنية والعلوم التطبيقية بالرستاق.</a>
+subtitle: لتحميل كتاب _مقدمة في الفيزياء الكلاسيكية_، [اضغط هنا.](ahmed-alkharusi.github.io)
 
 profile:
   align: right
@@ -16,7 +16,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-لتحميل كتاب _مقدمة في الفيزياء الكلاسيكية_، [اضغط هنا.](ahmed-alkharusi.github.io) 
+ 
 
  "فقد رأيت كتابة هذا الكتاب ليكون مرجعا للطلبة الجامعيين الذين يدرسون الفيزياء في عامهم الأكاديمي الأول، وثمة أشياء عدة  قد تميز هذا الكتاب عن الكتب الأخرى في هذا المجال، وهي:
    <ul>
