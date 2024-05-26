@@ -2,7 +2,7 @@
 layout: about
 title: الكتاب
 permalink: [/http(ahmed-alkharusi.github.io)](https://ahmed-alkharusi.github.io)
-subtitle: لتحميل كتاب _مقدمة في الفيزياء الكلاسيكية_، [اضغط هنا.]
+subtitle: لتحميل كتاب _مقدمة في الفيزياء الكلاسيكية_، اضغط هنا.
 
 profile:
   align: right
